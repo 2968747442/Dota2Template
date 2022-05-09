@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "hello_dota2",
     "private": true,
     "scripts": {
         "postinstall": "node scripts/install.js",
